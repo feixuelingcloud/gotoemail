@@ -1,7 +1,8 @@
 ---
 name: gotoemail
-version: 1.0.0
+version: 1.0.1
 emoji: "📧"
+homepage: https://github.com/feixuelingcloud/gotoemail
 description: 绑定邮箱账户并管理邮件。支持 163/126/QQ/雅虎邮箱（IMAP/SMTP+授权码）、Gmail（IMAP+App密码）、企业邮箱（自定义IMAP/SMTP服务器，端口可配）。不支持需要 OAuth 的邮箱（Outlook/M365/iCloud）。触发词：绑定邮箱、添加邮箱、配置邮箱、读邮件、查收邮件、发邮件、bind email、setup email、connect mailbox。
 metadata:
   openclaw:
